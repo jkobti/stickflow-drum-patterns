@@ -1,5 +1,5 @@
 
-# stickflow-patterns
+# Stickflow Drum Patterns
 
 A curated open-source library of drum patterns for drummers of all levels,
 exported from [StickFlow](https://www.stickflow.app). A web-based drum
