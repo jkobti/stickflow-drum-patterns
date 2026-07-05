@@ -1,0 +1,22 @@
+{
+  "id": "days-of-thunder",
+  "title": "Days of thunder",
+  "category": "groove",
+  "description": "",
+  "difficulty": "medium",
+  "collections": [
+    {
+      "slug": "rock",
+      "label": "Rock"
+    }
+  ],
+  "collection_slug": "rock",
+  "collection_label": "Rock",
+  "tags": [],
+  "default_bpm": 70,
+  "time_signature": "4/4",
+  "bar_count": 1,
+  "subdivision": 16,
+  "has_triplets": false,
+  "exported_at": "2026-07-05T19:55:48.077Z"
+}

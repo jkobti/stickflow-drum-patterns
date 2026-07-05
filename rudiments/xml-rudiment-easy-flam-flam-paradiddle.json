@@ -4,10 +4,19 @@
   "category": "rudiment",
   "description": "",
   "difficulty": "easy",
+  "collections": [
+    {
+      "slug": "flam",
+      "label": "Flam"
+    }
+  ],
+  "collection_slug": "flam",
+  "collection_label": "Flam",
   "tags": [],
   "default_bpm": 90,
   "time_signature": "4/4",
   "bar_count": 1,
   "subdivision": 32,
-  "exported_at": "2026-06-02T05:27:32.027Z"
+  "has_triplets": false,
+  "exported_at": "2026-07-05T19:55:48.077Z"
 }

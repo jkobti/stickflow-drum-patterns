@@ -4,10 +4,19 @@
   "category": "groove",
   "description": "",
   "difficulty": "easy",
+  "collections": [
+    {
+      "slug": "standard",
+      "label": "Standard"
+    }
+  ],
+  "collection_slug": "standard",
+  "collection_label": "Standard",
   "tags": [],
   "default_bpm": 90,
   "time_signature": "3/4",
   "bar_count": 4,
   "subdivision": 8,
-  "exported_at": "2026-06-02T05:27:32.027Z"
+  "has_triplets": false,
+  "exported_at": "2026-07-05T19:55:48.077Z"
 }

@@ -1,0 +1,22 @@
+{
+  "id": "voices-in-my-head",
+  "title": "Voices in my head",
+  "category": "groove",
+  "description": "",
+  "difficulty": "medium",
+  "collections": [
+    {
+      "slug": "rock",
+      "label": "Rock"
+    }
+  ],
+  "collection_slug": "rock",
+  "collection_label": "Rock",
+  "tags": [],
+  "default_bpm": 173,
+  "time_signature": "4/4",
+  "bar_count": 4,
+  "subdivision": 8,
+  "has_triplets": false,
+  "exported_at": "2026-07-05T19:55:48.077Z"
+}

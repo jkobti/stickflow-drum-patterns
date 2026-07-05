@@ -19,6 +19,7 @@
       <miscellaneous-field name="creationDate">2026-04-10</miscellaneous-field>
       <miscellaneous-field name="platform">Apple Macintosh</miscellaneous-field>
       <miscellaneous-field name="subtitle">Subtitle</miscellaneous-field>
+            <miscellaneous-field name="defaultBpm">90</miscellaneous-field>
       </miscellaneous>
     </identification>
   <defaults>
@@ -309,6 +310,7 @@
     </part-list>
   <part id="P1">
     <measure number="1" width="724.58">
+      <sound tempo="90"/>
       <print>
         <system-layout>
           <system-margins>

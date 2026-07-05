@@ -4,10 +4,19 @@
   "category": "groove",
   "description": "",
   "difficulty": "medium",
+  "collections": [
+    {
+      "slug": "offbeat",
+      "label": "Offbeat"
+    }
+  ],
+  "collection_slug": "offbeat",
+  "collection_label": "Offbeat",
   "tags": [],
   "default_bpm": 90,
   "time_signature": "4/4",
   "bar_count": 2,
   "subdivision": 8,
-  "exported_at": "2026-06-02T05:27:32.027Z"
+  "has_triplets": false,
+  "exported_at": "2026-07-05T19:55:48.077Z"
 }

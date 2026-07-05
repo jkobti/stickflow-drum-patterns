@@ -2,12 +2,21 @@
   "id": "xml-groove-medium-bossa-nova-w-son-clave-1",
   "title": "1",
   "category": "groove",
-  "description": "",
+  "description": "Based on pattern 821 of 1001 Drum grooves book",
   "difficulty": "medium",
+  "collections": [
+    {
+      "slug": "bossa-nova-w-son-clave",
+      "label": "Bossa Nova W Son Clave"
+    }
+  ],
+  "collection_slug": "bossa-nova-w-son-clave",
+  "collection_label": "Bossa Nova W Son Clave",
   "tags": [],
   "default_bpm": 90,
   "time_signature": "2/4",
   "bar_count": 2,
   "subdivision": 16,
-  "exported_at": "2026-06-02T05:27:32.027Z"
+  "has_triplets": false,
+  "exported_at": "2026-07-05T19:55:48.077Z"
 }

@@ -4,10 +4,19 @@
   "category": "groove",
   "description": "",
   "difficulty": "easy",
+  "collections": [
+    {
+      "slug": "rock",
+      "label": "Rock"
+    }
+  ],
+  "collection_slug": "rock",
+  "collection_label": "Rock",
   "tags": [],
-  "default_bpm": 90,
+  "default_bpm": 80,
   "time_signature": "4/4",
   "bar_count": 2,
   "subdivision": 8,
-  "exported_at": "2026-06-02T05:27:32.027Z"
+  "has_triplets": false,
+  "exported_at": "2026-07-05T19:55:48.077Z"
 }
